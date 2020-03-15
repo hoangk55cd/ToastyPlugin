@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-logiclinkplugin",
+  "version": "0.0.1",
+  "description": "dsf",
+  "cordova": {
+    "id": "cordova-plugin-logiclinkplugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangk55cd/ToastyPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "hoangk55cd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoangk55cd/ToastyPlugin/issues"
+  },
+  "homepage": "https://github.com/hoangk55cd/ToastyPlugin#readme"
+}
